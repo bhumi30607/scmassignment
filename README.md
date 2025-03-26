@@ -1,2 +1,1 @@
-# scmassignment
-hello this is a git practical.
+this project demostrates basic git command
